@@ -4,7 +4,7 @@ This is a Python console program that fetches data from [Instagram](https://www.
 
 This program's purpose is to add artists' social media information into the datasets that we will use to predict a [Spotify](https://www.spotify.com/) song popularity, primarily based on its [audio features](https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features).
 
-Using Machine Learning Models to predict a song's popularitu is a [group](#team) project from the Data Science and Advanced Analytics course from the Big Data &amp; Analytics Masters @ [EAE](https://www.eae.es/) class of 2021.
+Using Machine Learning Models to predict a song's popularity, is a [group](#team) project from the Data Science and Advanced Analytics course from the Big Data &amp; Analytics Masters @ [EAE](https://www.eae.es/) class of 2021.
 
 ## Usage
 Console has three main purposes
