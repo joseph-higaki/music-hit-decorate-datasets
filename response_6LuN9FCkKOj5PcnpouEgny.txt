@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><version>1.29</version><code>0</code><count>1</count><pageCount>1</pageCount><currentPage>1</currentPage><data><item><id>172321</id><name>Khalid</name><ipi/><type>Person</type><url>http://data.music-story.com/khalid</url><firstname>Khalid</firstname><lastname>Robinson</lastname><update_date>2019-06-05 16:29:41.851476</update_date><creation_date>2012-01-10 00:00:00</creation_date></item></data></root>

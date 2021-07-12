@@ -1,0 +1,48 @@
+josep@DESKTOP-DOS8M7K MINGW64 ~/py_music_story
+$ python ./.vscode/main.py MODE_SEARCH_IG_PROFILE_BY_ARTIST_NAME_MUSIC_STORY spotify_artists.csv
+
+['MODE_SEARCH_IG_PROFILE_BY_ARTIST_NAME_MUSIC_STORY', 'spotify_artists.csv']
+calle funtion : MODE_SEARCH_IG_PROFILE_BY_ARTIST_NAME_MUSIC_STORY with param file spotify_artists.csv
+music_story_enrichment1
+music_story_enrichment2
+music_story_enrichment3
+music_story_enrichment4
+music_story_enrichment5
+music_story_enriched_artist2021-05-18_151704398504.csv
+
+
+josep@DESKTOP-DOS8M7K MINGW64 ~/py_music_story
+$ python ./.vscode/main.py MODE_SEARCH_IG_FOLLLOWERS_BY_IG_USERNAME music_story_enriched_artist.csv
+
+['MODE_SEARCH_IG_FOLLLOWERS_BY_IG_USERNAME', 'music_story_enriched_artist.csv']
+calle funtion : MODE_SEARCH_IG_FOLLLOWERS_BY_IG_USERNAME with param file music_story_enriched_artist.csv
+decorate_instagram_followers_artist_based_on_music_story_1
+decorate_instagram_followers_artist_based_on_music_story_2
+JSON Query to postmalone3/feed/: Could not find "window._sharedData" in html response. [retrying; skip with ^C]
+JSON Query to postmalone3/feed/: Could not find "window._sharedData" in html response. [retrying; skip with ^C]
+decorate_instagram_followers_artist_based_on_music_story_3
+decorate_instagram_followers_artist_based_on_music_story_4
+decorate_instagram_followers_artist_based_on_music_story_5
+instagram_enriched_artist2021-05-18_164719456080.csv
+
+
+josep@DESKTOP-DOS8M7K MINGW64 ~/py_music_story
+$ python ./.vscode/main.py MODE_SEARCH_IG_FOLLLOWERS_BY_ARTIST_NAME "C:\Users\josep\py_music_story\UNION MSI01-IS01-IS02 - Not Found - Duplicates Removed.csv"
+
+['MODE_SEARCH_IG_FOLLLOWERS_BY_ARTIST_NAME', 'C:\\Users\\josep\\py_music_story\\UNION MSI01-IS01-IS02 - Not Found - 
+Duplicates Removed.csv']
+calle funtion : MODE_SEARCH_IG_FOLLLOWERS_BY_ARTIST_NAME with param file C:\Users\josep\py_music_story\UNION MSI01-IS01-IS02 - Not Found - Duplicates Removed.csv
+decorate_instagram_followers_artist_based_on_name_search 1 - 74 - pedro_3_capa_0 - 131
+decorate_instagram_followers_artist_based_on_name_search 2 - 78 - dynoro - 27876
+decorate_instagram_followers_artist_based_on_name_search 3 - 80 - adele - 39336687
+decorate_instagram_followers_artist_based_on_name_search 4 - 85 - annemarie - 7547756
+decorate_instagram_followers_artist_based_on_name_search 5 - 86 - dannocean - 748764
+instagram_enriched_artist2021-05-18_165336026931.csv
+
+
+josep@DESKTOP-DOS8M7K MINGW64 ~/py_music_story
+$ python ./.vscode/main.py MODE_PRODUCE_TEST_DATASET_BY_PLAYLIST 2be8Q4uvGVnH3didCoySP6
+
+['MODE_PRODUCE_TEST_DATASET_BY_PLAYLIST', '2be8Q4uvGVnH3didCoySP6']
+calle funtion : MODE_PRODUCE_TEST_DATASET_BY_PLAYLIST with param file 2be8Q4uvGVnH3didCoySP6
+spotifyExtract2021-05-18_165548735090.csv
