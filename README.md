@@ -69,8 +69,8 @@ Taking as input a spotify playlist id, this option will iterate through the list
 
 ## To-Do list 
 The: "I didn't do cause we needed to submit this ASAP"
-[] Have two different consoles, to separate concerns: Instagram / Music Story
-[] Package them like a hero
-[] A better (or one at least) pause/halt/fail - resume mechanism. Useful when APIs timeout on too many requests.
-[] Explore other services the music story database provided. Such as artists' tweets, lyrics 
+- [ ] Have two different consoles, to separate concerns: Instagram / Music Story
+- [ ] Package them like a hero
+- [ ] A better (or one at least) pause/halt/fail - resume mechanism. Useful when APIs timeout on too many requests.
+- [ ] Explore other services the music story database provided. Such as artists' tweets, lyrics 
 
