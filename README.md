@@ -1,4 +1,4 @@
-# Instagram / Music Story - Decorate Datasets
+#  Predicting a hit Song - Decorate Datasets - Instagram / Music Story 
 
 This is a Python console program that fetches data from [Instagram](https://www.instagram.com/) and [Music Story](https://www.music-story.com/).
 
